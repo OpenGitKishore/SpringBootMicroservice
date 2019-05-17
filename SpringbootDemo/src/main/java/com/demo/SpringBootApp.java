@@ -10,6 +10,6 @@ public class SpringBootApp {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		SpringApplication.run(SpringBootApp.class, args); 
-		System.out.println("SPring boot started");
+		
 	}
 }
